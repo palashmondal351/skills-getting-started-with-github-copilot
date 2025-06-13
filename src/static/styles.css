@@ -166,7 +166,7 @@ footer {
 
 .participants-list li {
   margin-bottom: 3px;
-  word-break: break-all;
+  overflow-wrap: break-word;
 }
 
 .participants-section em {
